@@ -1,0 +1,2 @@
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\publish\win-x86\AutoUpdaterNative.pdb
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\publish\win-x86\AutoUpdaterNative.exe

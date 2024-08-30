@@ -1,0 +1,14 @@
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\AutoUpdaterNative.exe
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\AutoUpdaterNative.deps.json
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\AutoUpdaterNative.runtimeconfig.json
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\AutoUpdaterNative.dll
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\bin\Release\net8.0\AutoUpdaterNative.pdb
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.AssemblyInfoInputs.cache
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.AssemblyInfo.cs
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.csproj.CoreCompileInputs.cache
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.dll
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\refint\AutoUpdaterNative.dll
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.pdb
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\AutoUpdaterNative.genruntimeconfig.cache
+C:\Users\Dinh\source\repos\AutoUpdaterNative\AutoUpdaterNative\obj\Release\net8.0\ref\AutoUpdaterNative.dll
